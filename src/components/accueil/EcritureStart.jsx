@@ -19,7 +19,7 @@ function Hi (){
             <div className="cv-and-icons" style={{display: "flex",gap: '6vh',paddingTop: "2vh",alignItems: "center" }}>
             
                 <div style={{ paddingTop:"2vh"}}>
-                    <a href="/for all Jarod Putman-Grain.pdf" download> 
+                    <a href="for all Jarod Putman-Grain.pdf" download> 
                         <button className="downloadcv">Download CV</button>
                     </a>
                 </div>
