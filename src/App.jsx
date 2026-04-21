@@ -108,11 +108,11 @@ function App() {
     },
     {
       id: 3,
-      titre: "Stage de fin d'année 1ère année Epitech",
-      entreprise: "Numérique pour Tous",
-      date: "2024 - 2025",
-      description: "Animation d'ateliers d'initiation au numérique pour personnes âgées. Développement d'un outil interne de gestion d'ateliers en Python. Coordination d'une équipe de bénévoles.",
-      competences: ["Python", "Communication", "Gestion de projet"],
+      titre: "First-Year End-of-Year Workshop",
+      entreprise: "Upskill Handball",
+      date: "2025",
+      description: "Operational enhancement of the Upskill Handball database: searching for public information, adding photos, updating player profiles, and quality control.",
+      competences: ["OSINT", "Communication", "Rigor","Accuracy"],
       lienImage: "upskill.png" 
     }
   ];
