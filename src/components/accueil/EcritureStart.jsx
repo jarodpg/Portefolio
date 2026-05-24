@@ -34,12 +34,12 @@ function Hi (){
 
                     <button style={{background:'none', border:"none",cursor:"pointer"}}
                     onClick={() => window.open("https://www.linkedin.com/in/jarod-putman-grain-3b6589387/", "_blank")}>
-                        <img src="Linkedin.png" alt="icon" width="75vh"/>
+                        <img src="Linkedin.webp" alt="icon" width="75vh"/>
                     </button>
 
                     <button style={{background:'none', border:"none",cursor:"pointer"}}
                     onClick={() => window.open("https://github.com/jarodpg")}>
-                        <img src="Github.png" alt="icon" width="75vh"/>
+                        <img src="Github.webp" alt="icon" width="75vh"/>
                     </button>
                 </div>
             </div>

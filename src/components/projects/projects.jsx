@@ -32,7 +32,7 @@ function Projects({ title, description, imageSrc, imageAlt, skills, repoLink}) {
 
                 <div style={{display:"flex", alignItems:"center", gap:"1vh", marginTop: "2vh"}}>
 
-                    <img style={{width:"5vh", height:"5vh", borderRadius:"2vh"}} src="githubBlanc.png" alt="Github Logo"/>
+                    <img style={{width:"5vh", height:"5vh", borderRadius:"2vh"}} src="githubBlanc.webp" alt="Github Logo"/>
 
                     <p className="GithubRepo" style={{margin: 0}}>
                         Github Repository

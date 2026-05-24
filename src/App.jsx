@@ -26,7 +26,7 @@ function App() {
       id: 1, 
       title: "Train Delay IA",
       description: "Web app built with Streamlit using a Scikit-learn model to predict train delays from CSV data.",
-      imageSrc: "tardis.png",
+      imageSrc: "tardis.webp",
       imageAlt: "Capture du projet Train Delay",
       skills: ["Python", "Sklearn", "Streamlit"],
       repoLink: "https://github.com/jarodpg/Tardis-Train-Delay-IA"
@@ -35,7 +35,7 @@ function App() {
       id: 2,
       title: "YOWL",
       description: "Web app providing personalized advice on fitness and personal development, designed to meet user needs.",
-      imageSrc: "yowl.png", 
+      imageSrc: "yowl.webp", 
       imageAlt: "Capture du site E-commerce",
       skills: ["Figma", "Css", "Docker", "React"], 
       repoLink: "https://github.com/jarodpg/YOWL"
@@ -44,7 +44,7 @@ function App() {
       id: 3,
       title: "Hackathon / EcoBoard",
       description: "Hackathon-winning MVP for Les Shifters, collecting and displaying ecological data automatically. Our team won first place in the class hackathon.",
-      imageSrc: "hackathon.png", 
+      imageSrc: "hackathon.webp", 
       imageAlt: "Capture du site E-commerce",
       skills: ["Figma", "Css", "React","Product Design",], 
       repoLink: "https://github.com/jarodpg/Hackaton-EcoBoard"
@@ -53,7 +53,7 @@ function App() {
       id: 4,
       title: "E-todo Web App",
       description: "A full-stack web app (todo app) with authentication is containerized using Docker.It includes a front-end, a back-end API, and a database.",
-      imageSrc: "etodo.png", 
+      imageSrc: "etodo.webp", 
       imageAlt: "Capture du site",
       skills: ["BackEnd", "TailWind", "Docker", "React"], 
       repoLink: "https://github.com/jarodpg/etodo"
@@ -67,7 +67,7 @@ function App() {
       ecole: "Epitech",
       date: "2025 - 2028",
       details: "1st Year: Full Stack Development, IA, CyberSecurity",
-      lienImage: "epitech.png" // Remplace par ton icone
+      lienImage: "epitech.webp" // Remplace par ton icone
     },
     {
       id: 2,
@@ -75,7 +75,7 @@ function App() {
       ecole: "Lycée Pierre d'Ailly, Compiègne",
       date: "2022 - 2025",
       details: "With Honors, specializations: Life and Earth Sciences, English",
-      lienImage: "pierredailly.png" // Remplace par ton icone
+      lienImage: "pierredailly.webp" // Remplace par ton icone
     },
     {
       id: 3,
@@ -83,7 +83,7 @@ function App() {
       ecole: "Collège Jean Paul II, Compiègne",
       date: "2018 - 2022",
       details: "Best possible mention, 698 / 800",
-      lienImage: "jp2.png" // Remplace par ton icone
+      lienImage: "jp2.webp" // Remplace par ton icone
     }
   ];
 
@@ -95,7 +95,7 @@ function App() {
       date: "April 2022",
       description: "Observation internship to learn about the role of director at the Choisy-au-Bac soccer academy.",
       competences: ['Observer',"Excel Management"], 
-      lienImage: "choisy.png"   
+      lienImage: "choisy.webp"   
     },
     {
       id: 2,
@@ -104,7 +104,7 @@ function App() {
       date: "2023 - 2024",
       description: "During my civic service, I took care of the stadium maintenance. I also coached youth teams aged 5 to 12 and planned their training sessions..",
       competences: ["Communication", "Project gestion", "Organization", 'Creativity', "Supervision"],
-      lienImage: "servicecivique.png" 
+      lienImage: "servicecivique.webp" 
     },
     {
       id: 3,
@@ -113,7 +113,7 @@ function App() {
       date: "2025",
       description: "Operational enhancement of the Upskill Handball database: searching for public information, adding photos, updating player profiles, and quality control.",
       competences: ["OSINT", "Communication", "Rigor","Accuracy"],
-      lienImage: "upskill.png" 
+      lienImage: "upskill.webp" 
     }
   ];
 
